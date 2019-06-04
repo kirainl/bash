@@ -6,7 +6,7 @@ set host 47.93.18.71
 # 设置ssh连接的port端口号
 set port 22
 # 设置ssh连接的登录密码
-set password 123456
+set password 12345
 # 设置ssh连接的超时时间
 set timeout -1
  
